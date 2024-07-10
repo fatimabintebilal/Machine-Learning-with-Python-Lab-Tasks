@@ -29,9 +29,3 @@ Welcome to the repository for my lab tasks completed during the "Machine Learnin
   - Implementing K-Means clustering
   - Evaluating clustering results
 
-## Getting Started
-
-To get started with the labs, clone the repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/machine-learning-lab-tasks.git
